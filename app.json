@@ -4,9 +4,9 @@
     "keywords": [
         "telegram"
     ],
-    "repository": "https://github.com/xditya/BotStatus/tree/deploy",
-    "website": "https://xditya.me",
-    "success_url": "https://t.me/BotzHub",
+    "repository": "https://github.com/Team-Bot2/Bot-Status",
+    "website": "https://t.me/DISQUALIFIED_XD",
+    "success_url": "https://t.me/TEAM_BOT_SUPPORT",
     "env": {
         "APP_ID": {
             "description": "Get this value from my.telegram.org",
