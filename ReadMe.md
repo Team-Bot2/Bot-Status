@@ -1,7 +1,7 @@
 # BotStatus
 Updates your bot status in the message, every two hours.
 
-**_NOTE:_** This branch needs to be hosted to work. If you prefer to host on GitHub WorkFlows, visit [the other branch](https://github.com/xditya/BotStatus/tree/gh-wf).
+**_NOTE:_** This branch needs to be hosted to work. If you prefer to host on GitHub WorkFlows, visit [the other branch](https://github.com/Team-Bot2/Bot-Status).
 
 # Variables.
 
@@ -19,4 +19,4 @@ Fill these in a `.env` file, if hosting on a VPS.
 
 - [odysseusmax](https://github.com/odysseusmax/bug-free-broccoli)
 - [Telethon](https://github.com/LonamiWebs/Telethon)
-- [Me](https://xditya.me)
+- [Me](https://Official_afk_xD)
